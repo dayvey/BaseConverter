@@ -1,0 +1,15 @@
+D:\Facultate\ASC\HOMEWORK\BaseConverter\bin\Debug\net6.0\BaseConverter.exe
+D:\Facultate\ASC\HOMEWORK\BaseConverter\bin\Debug\net6.0\BaseConverter.deps.json
+D:\Facultate\ASC\HOMEWORK\BaseConverter\bin\Debug\net6.0\BaseConverter.runtimeconfig.json
+D:\Facultate\ASC\HOMEWORK\BaseConverter\bin\Debug\net6.0\BaseConverter.dll
+D:\Facultate\ASC\HOMEWORK\BaseConverter\bin\Debug\net6.0\BaseConverter.pdb
+D:\Facultate\ASC\HOMEWORK\BaseConverter\obj\Debug\net6.0\BaseConverter.csproj.AssemblyReference.cache
+D:\Facultate\ASC\HOMEWORK\BaseConverter\obj\Debug\net6.0\BaseConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\ASC\HOMEWORK\BaseConverter\obj\Debug\net6.0\BaseConverter.AssemblyInfoInputs.cache
+D:\Facultate\ASC\HOMEWORK\BaseConverter\obj\Debug\net6.0\BaseConverter.AssemblyInfo.cs
+D:\Facultate\ASC\HOMEWORK\BaseConverter\obj\Debug\net6.0\BaseConverter.csproj.CoreCompileInputs.cache
+D:\Facultate\ASC\HOMEWORK\BaseConverter\obj\Debug\net6.0\BaseConverter.dll
+D:\Facultate\ASC\HOMEWORK\BaseConverter\obj\Debug\net6.0\refint\BaseConverter.dll
+D:\Facultate\ASC\HOMEWORK\BaseConverter\obj\Debug\net6.0\BaseConverter.pdb
+D:\Facultate\ASC\HOMEWORK\BaseConverter\obj\Debug\net6.0\BaseConverter.genruntimeconfig.cache
+D:\Facultate\ASC\HOMEWORK\BaseConverter\obj\Debug\net6.0\ref\BaseConverter.dll
